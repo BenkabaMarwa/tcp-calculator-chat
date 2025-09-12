@@ -14,6 +14,7 @@ def speak(text):
 
 def server():
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    #Change localhost with the @add of your server
     server_socket.bind(('localhost', 12345))
     server_socket.listen(1)
     server_socket.settimeout(30)
