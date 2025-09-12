@@ -30,7 +30,7 @@ def client():
     client_socket.settimeout(30)
 
     try:
-        #Change localhost with the @add of the Server
+        #Change localhost with the @add ip of the Server
         client_socket.connect(('localhost', 12345))
     except socket.timeout:
         print(Fore.RED + "Server is not responding. Connection timed out." + Style.RESET_ALL)
