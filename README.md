@@ -13,24 +13,6 @@ It simulates the **TCP 3-way handshake** and performs basic arithmetic operation
 
 ## 🛠 Requirements
 Install the required dependencies:
-```bash
-pip install pyttsx3 colorama
-```
-# TCP Calculator Chat
-
-This project demonstrates a simple **TCP communication** between a **Client** and a **Server** in Python.  
-It simulates the **TCP 3-way handshake** and performs basic arithmetic operations (addition, subtraction, multiplication, division).
-
-## 📌 Features
-- TCP Handshake (SYN → SYN-ACK → ACK).
-- Client sends an operation type and two numbers.
-- Server performs the calculation and returns the result.
-- Voice feedback using **pyttsx3**.
-- Colored terminal output using **colorama**.
-- Type `exit` to quit safely.
-
-## 🛠 Requirements
-Install the required dependencies:
 A- How to Run
 
 1- Start the server:
