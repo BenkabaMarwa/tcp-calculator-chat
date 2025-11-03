@@ -16,31 +16,34 @@ It simulates the **TCP 3-way handshake** and performs basic arithmetic operation
 ---
 
 ## 🛠 Requirements
-Install the required dependencies:
-A- How to Run
 
-1- Start the server:
+Install the required dependencies:
+  ```bash
+  pip install pyttsx3 colorama
+  ```
+## 🔍 How to Run
+
+### 1- Start the server:
 ```bash
 python Server.py
 ```
 
-2- Start the client:
+### 2- Start the client:
 ```bash
 python Client.py
 ```
 
-3- Follow the prompts:
+### 3- Follow the prompts:
 
-Choose the operation: addition, subtraction, multiplication, or division.
+💠 Choose the operation: addition, subtraction, multiplication, or division.
 
-Enter the first number.
+💠 Enter the first number.
 
-Enter the second number.
+💠 Enter the second number.
 
-Get the result from the server.
+💠 Get the result from the server.
 
-Exit:
-Type exit at any number prompt to disconnect safely.
+💠 Type exit at any number prompt to disconnect safely.
 
 
-pip install pyttsx3 colorama
+
