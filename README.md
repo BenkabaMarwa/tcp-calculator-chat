@@ -20,9 +20,9 @@ Install the required dependencies:
 A- How to Run
 
 1- Start the server:
-
+```bash
 python Server.py
-
+```
 
 2- Start the client:
 
