@@ -21,6 +21,9 @@ Install the required dependencies:
   ```bash
   pip install pyttsx3 colorama
   ```
+
+---
+
 ## 🔍 How to Run
 
 ### 1- Start the server:
