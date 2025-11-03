@@ -45,5 +45,14 @@ python Client.py
 
 💠 Type exit at any number prompt to disconnect safely.
 
+---
 
+## 🪪 License
 
+This project is licensed under the MIT License – you’re free to use, modify, and share it.
+
+---
+
+## 👩‍💻 Author
+
+Benkaba Marwa
