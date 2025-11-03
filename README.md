@@ -25,9 +25,9 @@ python Server.py
 ```
 
 2- Start the client:
-
+```bash
 python Client.py
-
+```
 
 3- Follow the prompts:
 
