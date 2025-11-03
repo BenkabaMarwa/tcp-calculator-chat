@@ -15,7 +15,7 @@ It simulates the **TCP 3-way handshake** and performs basic arithmetic operation
 Install the required dependencies:
 ```bash
 pip install pyttsx3 colorama
-
+```
 # TCP Calculator Chat
 
 This project demonstrates a simple **TCP communication** between a **Client** and a **Server** in Python.  
